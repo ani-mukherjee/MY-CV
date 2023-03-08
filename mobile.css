@@ -1,0 +1,48 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .top-portion{
+        min-width: 600px;
+        height: 700px;
+    }
+    .img-style {
+        width: 280px;
+        height: 530px;
+        margin: 50px 50px 30px 50px;
+        
+    }
+    .font-styl {
+        margin-bottom: 8px;
+        margin-top: 150px;
+        margin-right: 25px;
+    }
+    .styl {
+        margin: 10px 27px 150px 1px;
+    }
+    .font-style {
+        margin-right: 10px;
+    }
+    .mid-portion {
+        min-width: 600px;
+        height: 1600px;
+    }
+    .space {
+        margin-top: 13px;
+    }
+    .info{ 
+        padding-right: 20px;
+    }
+    .skill{
+        padding-right: 30px;
+    }
+    .distance{
+        margin:0;
+    }
+    .lower-part {
+       min-width: 600px;
+    }
+}
