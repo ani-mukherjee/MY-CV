@@ -6,12 +6,12 @@
         box-sizing: border-box;
     }
     .top-portion{
-        min-width: 600px;
+        min-width: 602px;
         height: 700px;
     }
     .img-style {
-        width: 282px;
-        height: 500px;
+        width: 285px;
+        height: 480px;
         margin: 50px 50px 30px 50px;
         
     }
@@ -27,7 +27,7 @@
         margin-right: 10px;
     }
     .mid-portion {
-        min-width: 600px;
+        min-width: 602px;
         height: 1600px;
     }
     .space {
@@ -43,6 +43,6 @@
         margin:0;
     }
     .lower-part {
-       min-width: 600px;
+       min-width: 602px;
     }
 }
